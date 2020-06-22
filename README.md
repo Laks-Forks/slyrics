@@ -18,7 +18,7 @@ npm install slyrics --save
 or [Download](https://github.com/cotwo0139/slyrics) this repository!
 
 ## Examples
-```
+```javascript
 const Lyrics = require('slyrics')
 const lyrics = new Lyrics()
 
