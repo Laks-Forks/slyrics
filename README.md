@@ -4,9 +4,9 @@
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 # Contributors:
-|[Sangoon_Is_Noob](https://github.com/cotwo0139)|
-|------|
-|![Sangoon_Profile_SRC](https://chinobot.ga/author_profile.png)|
+| [Sangoon_Is_Noob](https://github.com/sannoob)                  |
+|----------------------------------------------------------------|
+| ![Sangoon_Profile_SRC](https://chinobot.ga/author_profile.png) |
 
 Interested this project? [Contribute this project!](https://github.com/cotwo0139/slyrics/pulls)
 
